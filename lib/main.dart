@@ -54,15 +54,7 @@ class MainPage extends StatelessWidget {
               ),
               Text("Car", style: TextStyle(fontSize: 30)),
 
-              Text("gray car")
-
-
-
-
-
-
-
-
+              Text("gray car"),
             ],
           ),
         ),
